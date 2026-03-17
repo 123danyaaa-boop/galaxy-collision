@@ -1,0 +1,5 @@
+streamlit
+numpy
+numba
+matplotlib
+pillow
